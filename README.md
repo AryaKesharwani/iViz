@@ -55,4 +55,4 @@ CLIENT_URL=your_client_url
 
 ## 🎥 Demo Video
 
-<iframe src="https://drive.google.com/file/d/17h6fjwfj-9kZ4ImHlzSF-c0CrA9qBZEX/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video]()](https://drive.google.com/file/d/17h6fjwfj-9kZ4ImHlzSF-c0CrA9qBZEX/preview)
